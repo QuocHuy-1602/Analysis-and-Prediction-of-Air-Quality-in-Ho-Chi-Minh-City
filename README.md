@@ -1,5 +1,5 @@
 # Analysis-and-Prediction-of-Air-Quality-in-Ho-Chi-Minh-City
--Theo UNICEF, thực trạng ô nhiễm môi trường hiện nay khá nóng và đang diễn 
+- Theo UNICEF, thực trạng ô nhiễm môi trường hiện nay khá nóng và đang diễn 
 ra ở khắp nơi trên thế giới, đặc biệt tại các nước đang phát triển, trong đó có 
 Việt Nam. Bên cạnh ô nhiễm môi trường đất, nước do chất thải từ các công ty, 
 xí nghiệp chưa qua xử lý đúng quy trình bị xả thẳng ra môi trường thì chất thải, 
