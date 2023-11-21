@@ -18,6 +18,6 @@ và trong nhà gây ra khoảng 7 triệu ca tử vong hàng năm trên toàn c�
 riêng khu vực Tây Thái Bình Dương, khoảng 2,2 triệu người tử vong mỗi năm. 
 Ở Việt Nam, khoảng 60.000 người chết mỗi năm có liên quan đến ô nhiễm 
 không khí.
-- Vì vậy nhóm quyết định thu thập dữ liệu về chất lượng không khí ở các thành 
+- Vì vậy quyết định thu thập dữ liệu về chất lượng không khí ở các thành 
 phố lớn, cụ thể là thành phố Hồ Chí Minh, để có những cái nhìn về chất lượng 
 không khí nơi đó cũng như tại các thành phố lớn trên thế giới.
